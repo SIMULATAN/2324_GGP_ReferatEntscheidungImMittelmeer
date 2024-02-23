@@ -147,14 +147,43 @@ Angst vor erneutem Angriff sehr real
 
 osmanien derweilen andere Feldzuege
 
-Suleiman stirbt am 5. oder 6. September 1566, Buch unklar bzgl Kutsche mit Doppelgaenger?
+Suleiman stirbt am 5. oder 6. September 1566
 
-#Kriegszuege Takeaway
+stattdessen Selim
+
+rund um 1566: überleben wichtiger als Krieg
+grundstein gelegt für Suezkanal als Seeweg für Osmanen nach Westindien
+
+1567 Aufstand Morisken (muslimisches Volk in Spanien)
+Tunis wird überraschend angegriffen und übernommen
+
+Venezianer richtige oaschlecha, geraten unter Druck (osmanen wollen Zypern), wollen plötzlich heilige Alianz, gleichzeitig aber Verhandlung mit Türken
+Spanien abgeneigt da Venezianer = antimate, Papst enthusiastisch weil heilige Liga yaay, gönnt richtig
+
+Philipp noch immer no ballz => spätes aufbrechen nach Zypern
+
+Verteidigung suckt dank ungeeignetem Befehlshaber, osmanen rücken mühelos vor
+Zypern komplett rasiert dank scheiß Dandolo
+
+Legion weiterhin instabil, Spanier und Venezueller getrennte Ziele, Venezueller sogar geheime Verhandlungen mit Türken
+
+Famagusta als letztes, starkes Fort
+
+25. Mai nach 10 Monaten endlich Liga
+Bringt wenig, direkt wieder Komplikationen
+
+Verteidiger langsam aber sicher in Famagusta dezimiert
+
+
+# Takeaway
 Vieles von damals auch heute noch anwendbar
 Propaganda ist stark, Moral wichtig, symbolische Zeichen wirkungsvoll
 Flaggen aufstellen = moral gehoben, abgerissen = schlechtes Omen
 Helden fuer Moral oder als gefuerchtete Feinde
 
+teils große Wirkung durch einzelne Menschen
+
 # Slide Notes
 - Bilder von "Rudergaleere"
 - Religion fanatisch verteidigt und im Namen des Glaubens Raubzuege und Kriege
+- dieses Chaos bei den Christen fuckt komplett ab
