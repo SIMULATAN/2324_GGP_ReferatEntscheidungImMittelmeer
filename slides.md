@@ -62,7 +62,7 @@ Jakob Hofer
 
 ---
 
-## Story - übernahme von Rhodos
+## Story - Übernahme von Rhodos
 - Rhodos von Johaniter (Christen) überfallen
     - gefürchtete Ordensritter
 - zentraler Punkt
@@ -78,8 +78,8 @@ Jakob Hofer
 - 200 000 Türken vs 500 Ritter
 - 10\. Juni 1522 diplomatisches Schreiben
     - ergeben oder Krieg
-- upgrades für Rhodos durch Papst
-    - auch Dev Build Waffen
+- Upgrades für Rhodos vom Papst
+    - auch Waffen vom dev branch
 
 ---
 
@@ -115,7 +115,8 @@ Jakob Hofer
 
 ## Story - Karl rasiert
 - Karl gewinnt Festung Coron (Pylos, Griechenland)
-- große Vergeltung - Küste verwüstet, Schiffe verbrannt, Plünderungen
+- große Vergeltung
+  - italienische Küste verwüstet, Schiffe verbrannt, Plünderungen
 - 16\. August: Tunis (Afrika) kampflos übergeben
     - Sprungbrett für Angriffe
 - Allgemein: Aktion => größere Gegenreaktion
@@ -192,6 +193,8 @@ Seite 69
 
 ## Story - Karl geht all in
 
+![bg right 70%](res/trade-offer.png)
+
 - 1541 Angriff auf Algier
 - schlechtes Wetter, starke Verteidiger
 - 155 Schiffe und 8 000 Mann verloren
@@ -211,12 +214,23 @@ Seite 69
 
 ---
 
-## Story - reset
+## Story - kalm
+
+![bg right 70%](res/i-sleep.png)
+
 - Furcht vor Osmanen
 - diese beschäftigt
   - Bürgerkrieg, Seuchen, Lebensmittelknappheit
+
+---
+
+## Story - Malta
+
+![bg right 70%](res/real-shit.png)
+
 - Malta (mit Ordensrittern) als Schlüsselpunkt
-- hastiger Verteidigungsaufbau
+- Angriffsvorbereitungen der Osmanen
+  - hastiger Verteidigungsaufbau
 
 ---
 
@@ -253,7 +267,7 @@ Seite 69
 - 600 / 8 000 Verteidiger können noch Waffe tragen
 - 250 / 500 Ritter tot
 - alle KO
-- groß gefeirt, dennoch nur kleiner Win für Christen
+- groß gefeiert, dennoch nur kleiner Win für Christen
 - Angst vor erneutem Angriff groß
 - Osmanier mit anderen Feldzügen beschäftigt
 - 5\. / 6\. September 1566: Tod von Suleiman
@@ -299,14 +313,57 @@ Seite 69
 
 ## Story - Überaschung... oder auch nicht
 - Famagusta = letztes Fort
-- 25\. Mai endlich heilige Liga
+- 25\. Mai: endlich heilige Liga
   - direkt wieder Komplikationen
 - Verteidiger langsam aber sicher in Famagusta dezimiert
+- langsamer Bau der spanischen Flotte
+- 1\. August: Famagusta kapituliert
+  - großzügige Bedingungen
+  - (Streit um muslimische Sklaven)
+    - (tot oder lebendig? im Vertrag oder nicht?)
+    - Hinrichtung hoher Persoenlichkeiten der Venezianer
 
 ---
 
-## More coming soon...
-so weit howi nu ned glesn
+## Story - Schlacht von Lepanto
+
+<style scoped>
+    section {
+        padding-right: 0;
+    }
+</style>
+
+![bg right:43% 90%](res/Plan_of_the_Battle_of_Lepanto.png)
+
+- heilige Liga endlich kampfbereit
+- gegenseitige Unterschätzung
+- 7\. Oktober 1571 Konfrontation
+- Christen stiften Unordnung
+- Osmanen starke Konter
+  - fliehen an Land
+- gegenseitige Enterungen
+  - inklusive Flagschiffe
+- Spanier erlangen "Sultana"
+  - töten Ali (Admiral & Kommandant)
+---
+
+## Story - Schlacht von Lepanto pt. 2
+- Doria überrumpelt
+  - zu weit gesegelt => Kampflinie unterbrochen
+  - Sieg der Osmanen plötzlich wieder möglich
+- pure Verwüstung
+  - vier Stunden, 40 000 Tode, 100 Schiffe zerstört, 137 muslimische Schiffe erobert
+- Christen schließlich siegreich
+  - Osmanen "Rückschlag, keine Katastrophe"
+- große Feste
+
+---
+
+## Story - That's all Folks
+- mit 1580: Ende der großen Galeerenkriege
+- Pattsituation
+- beide Seiten anders beschäftigt
+  - durchaus aber immer noch mit Kriegen
 
 ---
 
@@ -320,11 +377,16 @@ so weit howi nu ned glesn
 
 ---
 
-## persönliche Meinung
+## Persönliche Meinung
+
+![bg right 50%](res/like.png)
+
 - Chaos bei den Christen nervt
 - spannendes Buch
 - modern geschrieben
 - extreme Detailgetreue
+  - teils grässliche Szenen
+    - => keine Gutenachtgeschichte
 - lange Lesezeit
   - bei mir über 10 Stunden
 

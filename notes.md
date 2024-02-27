@@ -174,6 +174,26 @@ Bringt wenig, direkt wieder Komplikationen
 
 Verteidiger langsam aber sicher in Famagusta dezimiert
 
+Spanier extrem langsam mit Bau der Flotte
+
+1. August Famagusta kapituliert, großzügige Bedingungen
+(Streit um muslimische Sklaven - tot oder lebendig? im Vertrag oder nicht? => Hinrichtung hoher Persönlichkeiten der Venezianer)
+
+nun endlich gemeinsame Flotte, unterschätzung beider Seiten
+(plötzlich interner Streit (schon wieder... oida))
+
+7. Oktober 1571 Konfrontation -> siehe https://en.wikipedia.org/wiki/Battle_of_Lepanto
+Christen stiften durch Treffer Unordnung, Osmanen starke Konter, fliehen schließlich an Land
+Flagschiffe gegenseitig geentert, erbitterter Kampf, Spanier erlangen Sultana & töten Ali (Admiral und Kommandant der Osmanen)
+Doria plötzlich überrumpelt (zu weit weggesegelt => Kampflinie unterbrochen)
+pure Verwüstung - vier Stunden - 40 000 deaths, 100 Schiffe zerstört, 137 muslimische Schiffe erobert
+
+Christen siegreich, große Feste, Osmanen sehen es als "Rückschlag, nicht Katastrophe"
+
+Mit 1580 Ende der Kreuzzugsidee & grossen Gaeerenkriege - Pattsituation
+
+Beide Seiten anders beschaeftigt, andere Probleme
+
 
 # Takeaway
 Vieles von damals auch heute noch anwendbar
